@@ -1,0 +1,8 @@
+#use this space to have name and cad file that you
+#are currently working on ex. "Aiden : ./cad/cad_file"
+#
+#this is to prevent merge conflicts as they will
+#be impossible to solve
+
+
+
